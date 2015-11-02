@@ -1,0 +1,99 @@
+nav
+{
+    background-color: #ed1450;       
+    height: 62px
+}
+
+nav img
+{
+    float: left;
+}
+
+form
+{
+    position: relative;
+}
+
+img ,span
+{
+    vertical-align: middle;       
+}
+
+mark
+{
+    padding-left: 5px;
+    background-color: #ed1450;
+    vertical-align: middle;
+}
+
+#gauche
+{
+    padding-left: 90px;    
+}
+
+body
+{
+    background-image: url(photo.JPG);
+    font-family: "arial";
+    font-size: 20px;
+}
+
+#droite
+{
+    display: table-cell;
+    padding-left: 90px;
+}
+
+li
+{
+    vertical-align: middle;  
+    list-style: none;
+    margin-top: 2px;
+}
+
+#general
+{
+    color: blue;
+    display: table;
+    margin: auto;
+    margin-top: 60px;
+}
+
+#general img{
+    border-radius: 20px;
+    border: solid 3px black;
+}
+
+#iness
+{
+    margin-top: 50px;
+}
+
+.text
+{
+   float: left; 
+}
+
+.image
+{
+    float: left;
+    clear: both;    
+}
+
+p
+{
+        padding-left: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
